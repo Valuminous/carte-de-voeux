@@ -1,0 +1,2 @@
+# carte-de-voeux
+Carte de Voeux Web Designer   Vous devrez réaliser une carte animée en ligne.  L'utilisateur devra pouvoir entrer une adresse email qui permettra au destinataire d'accéder à la carte.      un travail graphique cohérent doit-être fait (entre l'animation et l'habillage)      l'animation doit-être en SVG      elle doit contenir au moins 2 animations      l'animation doit-être intégrée dans une page HTML responsive     l'email envoyé peut être en HTML généré via MJML (création simple de mail responsive).
