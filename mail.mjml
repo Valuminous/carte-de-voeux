@@ -1,0 +1,16 @@
+<mjml>
+  <mj-body >
+   
+    <mj-section background-color="#040a20">
+      <mj-column>
+        <mj-image width="170px" src="media/feu1.svg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" align="justify" font-size="24px" color="#d0d3df" font-family="helvetica">Meilleurs voeux 2019</mj-text>
+        <mj-text align="justify" font-size="15px" color="#d0d3df" font-family="helvetica">Vous avez reçu une carte de voeux.</mj-text>
+        <mj-button href="voeux.html" align="justify" background-color="#8ccaca" border-radius="40px" font-family="helvetica" font-size="12px">Voir la carte</mj-button>
+      </mj-column>
+    </mj-section>
+   
+  </mj-body>
+</mjml>

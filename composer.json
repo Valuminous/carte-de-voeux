@@ -1,0 +1,6 @@
+{
+    "require": {
+        "juanmiguelbesada/mjml-php": "^1.0",
+        "twig/twig": "^2.0"
+    }
+}
